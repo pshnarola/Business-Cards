@@ -1,0 +1,91 @@
+[
+  {
+    "name": "John Doe",
+    "first_name": "John",
+    "last_name": "Doe",
+    "current_title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "phone_number": "123-456-7890",
+    "personal_email": "johndoe@example.com",
+    "linkedIn": "https://www.linkedin.com/in/johndoe",
+    "experience": [
+      "Software Developer at XYZ Company Intern at ABC IncIntern at ABC IncIntern at ABC Inc",
+      "Intern at ABC Inc."
+    ],
+    "education": ["Bachelor's Degree in Computer Science"]
+  },
+  {
+    "name": "Jane Smith",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "current_title": "Web Developer",
+    "location": "New York, NY",
+    "phone_number": "987-654-3210",
+    "personal_email": "janesmith@example.com",
+    "linkedIn": "https://www.linkedin.com/in/janesmith",
+    "experience": [
+      "Front-end Developer at PQR Corp",
+      "Freelance Web Developer"
+    ],
+    "education": ["Master's Degree in Computer Engineering"]
+  },
+  {
+    "name": "David Johnson",
+    "first_name": "David",
+    "last_name": "Johnson",
+    "current_title": "Data Scientist",
+    "location": "Chicago, IL",
+    "phone_number": "555-123-4567",
+    "personal_email": "davidjohnson@example.com",
+    "linkedIn": "https://www.linkedin.com/in/davidjohnson",
+    "experience": [
+      "Data Analyst at LMN Inc.",
+      "Research Assistant at University of XYZ"
+    ],
+    "education": ["Bachelor's Degree in Statistics"]
+  },
+  {
+    "name": "Sarah Williams",
+    "first_name": "Sarah",
+    "last_name": "Williams",
+    "current_title": "UI/UX Designer",
+    "location": "Los Angeles, CA",
+    "personal_email": "sarahwilliams@example.com",
+    "linkedIn": "https://www.linkedin.com/in/sarahwilliams",
+    "experience": [
+      "UI Designer at ABC Design Studio",
+      "Graphic Designer at XYZ Agency"
+    ],
+    "education": ["Bachelor's Degree in Graphic Design"]
+  },
+  {
+    "name": "Michael Brown",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "current_title": "Product Manager",
+    "location": "Seattle, WA",
+    "phone_number": "222-333-4444",
+    "personal_email": "michaelbrown@example.com",
+    "linkedIn": "https://www.linkedin.com/in/michaelbrown",
+    "experience": [
+      "Product Manager at XYZ Corporation",
+      "Business Analyst at ABC Corp"
+    ],
+    "education": ["Master's Degree in Business Administration"]
+  },
+  {
+    "name": "Emily Davis",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "current_title": "Software Engineer",
+    "location": "Austin, TX",
+    "phone_number": "999-888-7777",
+    "personal_email": "emilydavis@example.com",
+    "linkedIn": "https://www.linkedin.com/in/emilydavis",
+    "experience": [
+      "Full Stack Developer at ABC Tech",
+      "Software Engineer Intern at XYZ Inc."
+    ],
+    "education": ["Bachelor's Degree in Computer Science"]
+  }
+]
